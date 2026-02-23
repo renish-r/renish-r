@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Renish
 
 B.Tech - IT Student @ Ponjesly College of Engineering
-- 🔭 Here's my [portfolio](https://www.devrenish.com)  
+- 🔭 Here's my [Portfolio](https://www.devrenish.com), [Resume](https://www.devrenish.com/RenishR_Resume.pdf)
 - 🌱 I’m currently learning and guiding others in **DSA** and **Backend Development**  
 - 🎓 Gaining knowledge through **self-study** and **online courses** driven by my own interests  
 - 💼 Strong skills in **team collaboration** and **leadership**
