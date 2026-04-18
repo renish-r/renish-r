@@ -25,7 +25,7 @@ B.Tech - IT Student @ Ponjesly College of Engineering
   <img height="40" src="https://img.icons8.com/color/96/javascript.png"/>
   <img height="40" src="https://img.icons8.com/color/96/react-native.png"/>
   <img height="40" src="https://img.icons8.com/nolan/96/three-js.png"/>
-  <img height="40" src="https://img.icons8.com/metro/52/database.png"/>
+  <img height="40" src="https://img.icons8.com/metro/52/ffffff/database.png"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img height="40" src="https://img.icons8.com/color/96/mongodb--v1.png"/>
   <img height="40" src="https://img.icons8.com/office/96/spring-logo.png"/>
@@ -40,7 +40,7 @@ B.Tech - IT Student @ Ponjesly College of Engineering
   <img height="40" src="https://img.icons8.com/officel/80/java-eclipse.png"/>
   <img height="40" src="https://img.icons8.com/color/96/google-firebase-console.png"/>
   <img height="40" src="https://img.icons8.com/fluency/96/supabase.png"/>
-  <img height="40" src="https://img.icons8.com/ios-glyphs/90/chatgpt.png"/>
+  <img height="40" src="https://img.icons8.com/ios-glyphs/90/ffffff/chatgpt.png"/>
   <img height="40" src="https://img.icons8.com/3d-fluency/94/github-copilot.png"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/opencode-dark.png"/>
   <img height="40" src="https://img.icons8.com/fluency/96/claude-ai.png"/>
