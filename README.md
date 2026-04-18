@@ -42,7 +42,7 @@ B.Tech - IT Student @ Ponjesly College of Engineering
   <img height="40" src="https://img.icons8.com/fluency/96/supabase.png"/>
   <img height="40" src="https://img.icons8.com/ios-glyphs/90/ffffff/chatgpt.png"/>
   <img height="40" src="https://img.icons8.com/3d-fluency/94/github-copilot.png"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/opencode-dark.png"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/opencode-dark.png"/>
   <img height="40" src="https://img.icons8.com/fluency/96/claude-ai.png"/>
   <img height="40" src="https://img.icons8.com/fluency/48/docker.png"/>
   <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
