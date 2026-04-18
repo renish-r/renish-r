@@ -15,11 +15,39 @@ B.Tech - IT Student @ Ponjesly College of Engineering
  
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/nolan/96/three-js.png"/> <br /> <img width="50" height="50" src="https://img.icons8.com/metro/52/ffffff/database.png" alt="database"/> <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/office/96/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/null/graphql.png"/>
-
+<p align="left">
+  <img height="40" src="https://img.icons8.com/color/96/java-coffee-cup-logo.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/c-programming.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/c-plus-plus-logo.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/html-5.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/css3.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/bootstrap.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/javascript.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/react-native.png"/>
+  <img height="40" src="https://img.icons8.com/nolan/96/three-js.png"/>
+  <img height="40" src="https://img.icons8.com/metro/52/database.png"/>
+  <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/postgresql.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/mongodb.png"/>
+  <img height="40" src="https://img.icons8.com/office/96/spring-logo.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/graphql.png"/>
+</p>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/96/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/intellij-idea.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/git.png"/> <img height="50" src="https://img.icons8.com/officel/80/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/google-firebase-console.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/96/supabase.png" alt="supabase"/> <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/90/ffffff/chatgpt.png" alt="chatgpt"/> <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/github-copilot.png" alt="github-copilot"/> <img width="40" height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/opencode-dark.png" alt="opencode-ai"/> <img width="50" height="50" src="https://img.icons8.com/fluency/96/claude-ai.png" alt="claude-ai"/> <img height="50" src="https://img.icons8.com/fluency/48/docker.png"/> <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+<p align="left">
+  <img height="40" src="https://img.icons8.com/color/96/visual-studio-code-2019.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/intellij-idea.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/git.png"/>
+  <img height="40" src="https://img.icons8.com/officel/80/java-eclipse.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/google-firebase-console.png"/>
+  <img height="40" src="https://img.icons8.com/fluency/96/supabase.png"/>
+  <img height="40" src="https://img.icons8.com/ios-glyphs/90/chatgpt.png"/>
+  <img height="40" src="https://img.icons8.com/3d-fluency/94/github-copilot.png"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/opencode-dark.png"/>
+  <img height="40" src="https://img.icons8.com/fluency/96/claude-ai.png"/>
+  <img height="40" src="https://img.icons8.com/fluency/48/docker.png"/>
+  <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/postman.png"/>
+</p>
+
 <br /><br />
 
 ![GitHub Stats](https://github-readme-stats-silk-delta-31.vercel.app/api?username=renish-r&show_icons=true&theme=dark&count_private=true&hide_border=true)
