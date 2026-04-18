@@ -26,7 +26,7 @@ B.Tech - IT Student @ Ponjesly College of Engineering
   <img height="40" src="https://img.icons8.com/color/96/react-native.png"/>
   <img height="40" src="https://img.icons8.com/nolan/96/three-js.png"/>
   <img height="40" src="https://img.icons8.com/metro/52/database.png"/>
-  <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/postgre-sql.png"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img height="40" src="https://img.icons8.com/color/96/mongodb--v1.png"/>
   <img height="40" src="https://img.icons8.com/office/96/spring-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/96/graphql.png"/>
