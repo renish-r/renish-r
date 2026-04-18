@@ -16,7 +16,7 @@ B.Tech - IT Student @ Ponjesly College of Engineering
 
 ### I code in
 <p align="left">
-  <img height="40" src="https://img.icons8.com/color/96/java-coffee-cup-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/96/java-coffee-cup-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/96/c-programming.png"/>
   <img height="40" src="https://img.icons8.com/color/96/c-plus-plus-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/96/html-5.png"/>
