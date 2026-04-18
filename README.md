@@ -27,7 +27,7 @@ B.Tech - IT Student @ Ponjesly College of Engineering
   <img height="40" src="https://img.icons8.com/nolan/96/three-js.png"/>
   <img height="40" src="https://img.icons8.com/metro/52/database.png"/>
   <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/postgre-sql.png"/>
-  <img height="40" src="https://img.icons8.com/color/96/mongodb.png"/>
+  <img height="40" src="https://img.icons8.com/color/96/mongodb--v1.png"/>
   <img height="40" src="https://img.icons8.com/office/96/spring-logo.png"/>
   <img height="40" src="https://img.icons8.com/color/96/graphql.png"/>
 </p>
@@ -45,7 +45,7 @@ B.Tech - IT Student @ Ponjesly College of Engineering
   <img height="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/opencode-dark.png"/>
   <img height="40" src="https://img.icons8.com/fluency/96/claude-ai.png"/>
   <img height="40" src="https://img.icons8.com/fluency/48/docker.png"/>
-  <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/postman.png"/>
+  <img height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
 </p>
 
 <br /><br />
