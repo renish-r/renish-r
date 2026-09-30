@@ -2,10 +2,15 @@
 
 ## Hi there 👋 It's me Renish
 
-B.Tech - IT Student @ Ponjesly College of Engineering
-- 🔭 Here's my [Portfolio](https://www.devrenish.com), [Resume](https://www.devrenish.com/RenishR_Resume.pdf)
-- 🌱 I’m currently learning and guiding others in **DSA** and **Backend Development**  
-- 🎓 Gaining knowledge through **self-study** and **online courses** driven by my own interests  
+Forward Deployed Engineer (FDE) | Java Backend Developer | Full-Stack Developer
+
+- 🔭 Here's my **[Portfolio]**(https://www.devrenish.com), **[Resume]**(https://www.devrenish.com/RenishR_Resume.pdf)
+- 💻 Building and deploying production-ready software solutions using **Java**, **Spring Boot**, **React**, **Next.js**, and **TypeScript**
+- ⚙️ Experienced in **backend development**, **REST APIs**, **databases**, **authentication**, **system integration**, and **automation**
+- 🤖 Working with **AI**, **LLMs**, **AI Agents**, and **intelligent automation systems**
+- 🚀 Building real-world products and solutions through **Zenzerflow**
+- 🧠 Passionate about **problem-solving**, **system design**, **software architecture**, and **DSA**
+- 🤝 Strong in **client collaboration**, **technical problem-solving**, **communication**, and **leadership**
 - 💼 Strong skills in **team collaboration** and **leadership**
 - Social Presence:
   <br />
