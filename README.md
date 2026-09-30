@@ -4,7 +4,7 @@
 
 Forward Deployed Engineer (FDE) | Java Backend Developer | Full-Stack Developer
 
-- 🔭 Here's my **[Portfolio]**(https://www.devrenish.com), **[Resume]**(https://www.devrenish.com/RenishR_Resume.pdf)
+- 🔭 Here's my **[Portfolio](https://www.devrenish.com), [Resume](https://www.devrenish.com/RenishR_Resume.pdf)**
 - 💻 Building and deploying production-ready software solutions using **Java**, **Spring Boot**, **React**, **Next.js**, and **TypeScript**
 - ⚙️ Experienced in **backend development**, **REST APIs**, **databases**, **authentication**, **system integration**, and **automation**
 - 🤖 Working with **AI**, **LLMs**, **AI Agents**, and **intelligent automation systems**
